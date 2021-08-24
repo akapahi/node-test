@@ -1,0 +1,9 @@
+{
+  "boid_p": 100,
+  "boid_s": 2.5,
+  "boid_a": 1,
+  "boid_c": 1,
+  "boid_f": 5,
+  "boid_ds": 45,
+  "boid_ms": 3.5
+}
